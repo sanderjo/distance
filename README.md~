@@ -6,15 +6,6 @@ Calculates driving distance (in km) between two locations
 Usage
 -----
 <pre><code>
-$ ./distance.py amsterdam rome
-amsterdam ; rome ; 1660
-
-$ ./distance.py nordkapp gibraltar
-nordkapp ; gibraltar ; 5523
-
-$ ./distance.py "ho chi minh" bangkok
-ho chi minh ; bangkok ; 881
-
 $ ./distance.py goor zeist
 goor ; zeist ; 107
 
