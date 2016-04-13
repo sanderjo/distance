@@ -1,7 +1,7 @@
 distance
 ========
 
-Calculates driving distance (in km) between two locations
+Calculates driving distance (in km) between two locations by using http://maps.googleapis.com/
 
 Usage
 -----
